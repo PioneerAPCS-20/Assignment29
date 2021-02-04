@@ -16,7 +16,7 @@ public class Main
         print(difference(mat1, mat2));
 
         System.out.println("\nSolutions: ");
-        System.out.println("[3	2]\n[7	6]\n\n[-6	-9]\n[-12	-30]\n\n[1	4]\n[1	14]");
+        System.out.println("[3\t2]\n[7\t6]\n\n[-6\t-9]\n[-12\t-30]\n\n[1\t4]\n[1\t14]");
     }
 
     /**
