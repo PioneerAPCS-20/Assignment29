@@ -21,6 +21,8 @@ You will create one class that has 3 methods: one for adding matrices, one for m
 
 Each method should print the result. 
 
+Note: use regular `for` loops in the `sum` and `product` methods.
+
 ### Sample Outputs
 
 Don't need to print each matrix again. Just print the result.
